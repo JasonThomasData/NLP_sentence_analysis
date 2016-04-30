@@ -1,0 +1,11 @@
+sentence,active_clause,passive_clause,number_of_passive,of_the,sentence_length_in_characters,sentence_length_in_words,longest_word,longest_word_length,punctuation,punctuation_length
+Be careful with the glass.,False,False,0,False,26,6,careful,7,.,1
+It might get broken.,False,False,0,False,20,5,broken,6,.,1
+When did that old building get built?,False,True,1,False,37,8,building,8,?,1
+He and his girlfriend are going to get married this summer.,False,False,0,False,59,12,girlfriend,10,.,1
+"Jason put these get examples here, as it seems that got can be passive, but not get.",False,False,0,False,84,20,examples,8,",,.",3
+"Jason thinks using get in place of to be is passive voice, but not structurally passive, which means Jason has a problem.",False,False,0,False,121,25,structurally,12,",,.",3
+Jason Thomas took the above example from http://learnenglish.britishcouncil.org/en/english-grammar/verbs/active-and-passive-voice.,False,False,0,False,130,11,//learnenglish.britishcouncil.org/en/english-grammar/verbs/active-and-passive-voice,83,://..//-//---.,14
+When did that old building get built?,False,True,1,False,37,8,building,8,?,1
+"This one, from the same source, returns auxpass!",False,True,1,False,48,11,returns,7,",,!",3
+"So maybe there's an issue identifying passive voice in the above get examples, and this one is correct?",False,False,0,False,103,21,identifying,11,"',?",3

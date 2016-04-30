@@ -1,0 +1,53 @@
+sentence,active_clause,passive_clause,number_of_passive,of_the,sentence_length_in_characters,sentence_length_in_words,longest_word,longest_word_length,punctuation,punctuation_length
+Rita writes a letter.,False,False,0,False,21,5,writes,6,.,1
+Rita wrote a letter.,False,False,0,False,20,5,letter,6,.,1
+Rita has written a letter.,False,False,0,False,26,6,written,7,.,1
+Rita will write a letter.,False,False,0,False,25,6,letter,6,.,1
+Rita can write a letter.,False,False,0,False,24,6,letter,6,.,1
+Rita is writing a letter.,False,False,0,False,25,6,writing,7,.,1
+Rita was writing a letter.,False,False,0,False,26,6,writing,7,.,1
+Rita had written a letter.,False,False,0,False,26,6,written,7,.,1
+Rita will have written a letter.,False,False,0,False,32,7,written,7,.,1
+Rita would write a letter.,False,False,0,False,26,6,letter,6,.,1
+Rita would have written a letter.,False,False,0,False,33,7,written,7,.,1
+Jason Thomas took the above examples from https://www.ego4u.com/en/cram-up/grammar/passive.,False,False,0,False,91,11,//www.ego4u.com/en/cram-up/grammar/passive,42,://..//-//.,11
+"Once a week, Tom cleans the house.",False,False,0,False,34,9,cleans,6,",.",2
+"Right now, Sarah is writing the letter.",False,False,0,False,39,9,writing,7,",.",2
+Sam repaired the car.,False,False,0,False,21,5,repaired,8,.,1
+The salesman was helping the customer when the thief came into the store.,False,False,0,False,73,14,salesman,8,.,1
+Many tourists have visited that castle.,False,False,0,False,39,7,tourists,8,.,1
+"Recently, John has been doing the work.",False,False,0,False,39,9,Recently,8,",.",2
+George had repaired many cars before he received his mechanic's license.,False,False,0,False,72,13,repaired,8,'.,2
+Chef Jones had been preparing the restaurant's fantastic dinners for two years before he moved to Paris.,False,False,0,False,104,19,restaurant,10,'.,2
+Someone will finish the work by 5:00 PM.,False,False,0,False,40,9,Someone,7,:.,2
+Sally is going to make a beautiful dinner tonight.,False,False,0,False,50,10,beautiful,9,.,1
+"At 8:00 PM tonight, John will be washing the dishes.",False,False,0,False,52,12,tonight,7,":,.",3
+"At 8:00 PM tonight, John is going to be washing the dishes.",False,False,0,False,59,14,tonight,7,":,.",3
+They will have completed the project before the deadline.,False,False,0,False,57,10,completed,9,.,1
+They are going to have completed the project before the deadline.,False,False,0,False,65,12,completed,9,.,1
+The famous artist will have been painting the mural for over six months by the time it is finished.,False,True,1,False,99,20,painting,8,.,1
+The famous artist is going to have been painting the mural for over six months by the time it is finished.,False,True,1,False,106,22,painting,8,.,1
+Jerry used to pay the bills.,False,False,0,False,28,7,Jerry,5,.,1
+My mother would always make the pies.,False,False,0,False,37,8,mother,6,.,1
+I knew John would finish the work by 5:00 PM.,False,False,0,False,45,11,finish,6,:.,2
+I thought Sally was going to make a beautiful dinner tonight.,False,False,0,False,61,12,beautiful,9,.,1
+Jason Thomas took the above examples from http://www.englishpage.com/verbpage/activepassive.html.,False,False,0,False,97,11,//www.englishpage.com/verbpage/activepassive.html,49,://..//..,9
+The dispatcher is notifying police that three prisoners have escaped.,False,False,0,False,69,11,dispatcher,10,.,1
+Surgeons successfully performed a new experimental liver-transplant operation yesterday.,False,False,0,False,88,10,liver-transplant,16,-.,2
+"""Authorities make rules to be broken,"" he said defiantly.",False,True,1,False,57,13,Authorities,11,""","".",4
+Jason Thomas took the above examples from https://owl.english.purdue.edu/owl/resource/539/04/.,False,False,0,False,94,11,//owl.english.purdue.edu/owl/resource/539/04/,45,://.../////.,12
+Jim had his car stolen last night.,False,False,0,False,34,8,stolen,6,.,1
+They had their roof blown off in the storm.,False,False,0,False,43,10,their,5,.,1
+I must get my hair cut.,False,False,0,False,23,7,must,4,.,1
+I must have my hair cut.,False,False,0,False,24,7,must,4,.,1
+When are you going to get that window mended?,False,False,0,False,45,10,window,6,?,1
+We're having the house painted.,False,False,0,False,31,7,painted,7,'.,2
+The above sentences are passive in meaning but active in form.,False,False,0,False,62,12,sentences,9,.,1
+We'll get the work done as soon as possible.,False,False,0,False,44,11,possible,8,'.,2
+I'll get those letters typed before lunchtime.,False,False,0,False,46,9,lunchtime,9,'.,2
+She said she'd have my lunch delivered by noon.,False,False,0,False,47,11,delivered,9,'.,2
+You should have your roof repaired before next winter.,False,False,0,False,54,10,repaired,8,.,1
+The ceiling needs painting.,False,False,0,False,27,5,painting,8,.,1
+My hair needs cutting.,False,False,0,False,22,5,cutting,7,.,1
+That faucet needs fixing.,False,False,0,False,25,5,faucet,6,.,1
+Jason Thomas took the above example from http://www.edufind.com/english-grammar/alternative-ways-form-passive-voice/.,False,False,0,False,117,11,//www.edufind.com/english-grammar/alternative-ways-form-passive-voice/,70,://../-/----/.,14

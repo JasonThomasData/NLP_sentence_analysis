@@ -1,0 +1,8 @@
+Be careful with the glass. It might get broken.
+When did that old building get built?
+He and his girlfriend are going to get married this summer.
+	Jason put these get examples here, as it seems that got can be passive, but not get.
+	Jason thinks using get in place of to be is passive voice, but not structurally passive, which means Jason has a problem.
+	Jason Thomas took the above example from http://learnenglish.britishcouncil.org/en/english-grammar/verbs/active-and-passive-voice.
+When did that old building get built?
+	This one, from the same source, returns auxpass! So maybe there's an issue identifying passive voice in the above get examples, and this one is correct?

@@ -1,0 +1,50 @@
+sentence,active_clause,passive_clause,number_of_passive,of_the,sentence_length_in_characters,sentence_length_in_words,longest_word,longest_word_length,punctuation,punctuation_length
+A letter is written by Rita.,False,True,1,False,28,7,written,7,.,1
+A letter was written by Rita.,False,True,1,False,29,7,written,7,.,1
+A letter has been written by Rita.,False,True,1,False,34,8,written,7,.,1
+A letter will be written by Rita.,False,True,1,False,33,8,written,7,.,1
+A letter can be written by Rita.,False,True,1,False,32,8,written,7,.,1
+A letter is being written by Rita.,False,True,1,False,34,8,written,7,.,1
+A letter was being written by Rita.,False,True,1,False,35,8,written,7,.,1
+A letter had been written by Rita.,False,True,1,False,34,8,written,7,.,1
+A letter will have been written by Rita.,False,True,1,False,40,9,written,7,.,1
+A letter would be written by Rita.,False,True,1,False,34,8,written,7,.,1
+A letter would have been written by Rita.,False,True,1,False,41,9,written,7,.,1
+These examples above were taken by Jason from https://www.ego4u.com/en/cram-up/grammar/passive.,False,True,1,False,95,12,//www.ego4u.com/en/cram-up/grammar/passive,42,://..//-//.,11
+"Once a week, the house is cleaned by Tom.",False,True,1,False,41,11,cleaned,7,",.",2
+"Right now, the letter is being written by Sarah.",False,True,1,False,48,11,written,7,",.",2
+The car was repaired by Sam.,False,True,1,False,28,7,repaired,8,.,1
+The customer was being helped by the salesman when the thief came into the store.,False,True,1,False,81,16,customer,8,.,1
+That castle has been visited by many tourists.,False,True,1,False,46,9,tourists,8,.,1
+"Recently, the work has been being done by John.",False,True,1,False,47,11,Recently,8,",.",2
+Many cars had been repaired by George before he received his mechanic's license.,False,True,1,False,80,15,repaired,8,'.,2
+The restaurant's fantastic dinners had been being prepared by Chef Jones for two years before he moved to Paris.,False,True,1,False,112,21,restaurant,10,'.,2
+The work will be finished by 5:00 PM.,False,True,1,False,37,9,finished,8,:.,2
+A beautiful dinner is going to be made by Sally tonight.,False,True,1,False,56,12,beautiful,9,.,1
+"At 8:00 PM tonight, the dishes will be being washed by John.",False,True,1,False,60,14,tonight,7,":,.",3
+"At 8:00 PM tonight, the dishes are going to be being washed by John.",False,True,1,False,68,16,tonight,7,":,.",3
+The project will have been completed before the deadline.,False,True,1,False,57,10,completed,9,.,1
+The project is going to have been completed before the deadline.,False,True,1,False,64,12,completed,9,.,1
+The mural will have been being painted by the famous artist for over six months by the time it is finished.,False,True,2,False,107,22,finished,8,.,1
+The mural is going to have been being painted by the famous artist for over six months by the time it is finished.,False,True,2,False,114,24,finished,8,.,1
+The bills used to be paid by Jerry.,False,True,1,False,35,9,bills,5,.,1
+The pies would always be made by my mother.,False,True,1,False,43,10,always,6,.,1
+I knew the work would be finished by 5:00 PM.,False,True,1,False,45,11,finished,8,:.,2
+I thought a beautiful dinner was going to be made by Sally tonight.,False,True,1,False,67,14,beautiful,9,.,1
+These examples above were taken by Jason from http://www.englishpage.com/verbpage/activepassive.html.,False,True,1,False,101,12,//www.englishpage.com/verbpage/activepassive.html,49,://..//..,9
+The house is cleaned every day.,False,True,1,False,31,7,cleaned,7,.,1
+The house is being cleaned at the moment.,False,True,1,False,41,9,cleaned,7,.,1
+The house was cleaned yesterday.,False,True,1,False,32,6,yesterday,9,.,1
+The house was being cleaned last week.,False,True,1,False,38,8,cleaned,7,.,1
+The house has been cleaned since you left.,False,True,1,False,42,9,cleaned,7,.,1
+The house had been cleaned before they arrived.,False,True,1,False,47,9,cleaned,7,.,1
+The house will be cleaned next week.,False,True,1,False,36,8,cleaned,7,.,1
+The house will be being cleaned tomorrow.,False,True,1,False,41,8,tomorrow,8,.,1
+The house would be cleaned if they had visitors.,False,True,1,False,48,10,visitors,8,.,1
+The house would have been cleaned if it had been dirty.,False,True,1,False,55,12,cleaned,7,.,1
+The house must be cleaned before we arrive.,False,True,1,False,43,9,cleaned,7,.,1
+These examples above were taken by Jason from http://www.edufind.com/english-grammar/passive-voice/.,False,True,1,False,100,12,//www.edufind.com/english-grammar/passive-voice/,48,://../-/-/.,11
+The ceiling needs to be painted.,False,True,1,False,32,7,ceiling,7,.,1
+My hair needs to be cut.,False,True,1,False,24,7,needs,5,.,1
+That faucet needs to be fixed.,False,True,1,False,30,7,faucet,6,.,1
+These examples above were taken by Jason from http://www.edufind.com/english-grammar/alternative-ways-form-passive-voice/.,False,True,1,False,122,12,//www.edufind.com/english-grammar/alternative-ways-form-passive-voice/,70,://../-/----/.,14
