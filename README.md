@@ -59,26 +59,3 @@ These results are inconsistent and need further testing:
 
 	active_clause #Boolean - does this sentence contain an active clause?
 	passive_clause #Boolean - does this sentence contain an passive clause?
-
-###Issues
-
-This project splits all sentences, including those inside quotes. Quotes should not be included, since the author is hardly to blame for a character's poor use of English.
-
-Currently, all results are saved to a separate csv file. I will then have to get summarised results for all, which is annoying. Fix that so the program saves summarised results in a single file.
-
-
-
-#Process all novels in this dictionary
-#run_prog(novels_scrape_dict)
-
-#Run active voice tests
-#run_prog(active_tests)
-
-#Run passive voice tests
-#run_prog(passive_tests)
-
-#Process all articles in this dictionary
-#run_prog(articles_essays_scrape_dict)
-
-#What it says
-#test_single_sentence("The man said he didn't like it.")
